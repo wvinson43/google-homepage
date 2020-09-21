@@ -1,0 +1,1 @@
+This project will be an attempt to replicate the Google home page.  It should demonstrate knowledge and expertise with alignment, spacing, and functionality.
